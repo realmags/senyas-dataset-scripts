@@ -1,11 +1,17 @@
+## About
+Scripts for preprocessing the dataset for my thesis project - Senyas app.
+
 ## File Structure
 
-classification
-├── test
+fsl-signs-split
+├── training
     ├── kamusta
         ├── 001.jpg
         ├── ...
     ├── ...
-├── training
+├── validation (dev)
+    ├── kamusta
+    ├── ...
+├── test
     ├── kamusta
     ├── ...
