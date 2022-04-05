@@ -1,0 +1,9 @@
+# ignore files
+/__pycache__
+
+/.ipynb_checkpoints
+
+*.mhtml
+*.html
+*.ipynb
+
